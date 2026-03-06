@@ -1,0 +1,9 @@
+site_name: Mi Documentación
+
+theme:
+  
+	name: material
+
+nav:
+  
+	- Inicio: index.md
