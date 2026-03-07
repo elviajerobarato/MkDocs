@@ -13,6 +13,7 @@ nav:
   - Python:
       - Introducción: Python/index.md
   - JavaScript:
+      - 00. Inicio: JavaScript/index.md
       - 01. Introducción (T1): JavaScript/T1_introduccion.md
       - 02. Funciones (T2): JavaScript/T2_funciones.md
       - 03. Arrays (T3): JavaScript/T3_arrays.md
