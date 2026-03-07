@@ -1,9 +1,7 @@
-site_name: Mi Documentación
+site_name: Mi DocumentaciÃ³n
 
 theme:
-  
-	name: material
+  name: material
 
 nav:
-  
-	- Inicio: index.md
+  - Inicio: index.md
