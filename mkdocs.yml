@@ -5,3 +5,12 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Python:
+      - Introducción: python/index.md
+  - JavaScript:
+      - Introducción: javascript/index.md
+  - PHP:
+      - Introducción: php/index.md
+  - SQL:
+      - Introducción: sql/index.md
+
