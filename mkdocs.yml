@@ -11,18 +11,18 @@ theme:
 nav:
   - Inicio: index.md
   - Python:
-      - Introducción: python/index.md
+      - Introducción: Python/index.md
   - JavaScript:
-      - 01. Introducción (T1): javascript/T1_introduccion.md
-      - 02. Funciones (T2): javascript/T2_funciones.md
-      - 03. Arrays (T3): javascript/T3_arrays.md
-      - 04. DOM (T4): javascript/T4_DOM.md
-      - 05. Eventos (T5): javascript/T5_eventos.md
-      - 06. Formularios (T6): javascript/T6_formularios.md
+      - 01. Introducción (T1): JavaScript/T1_introduccion.md
+      - 02. Funciones (T2): JavaScript/T2_funciones.md
+      - 03. Arrays (T3): JavaScript/T3_arrays.md
+      - 04. DOM (T4): JavaScript/T4_DOM.md
+      - 05. Eventos (T5): JavaScript/T5_eventos.md
+      - 06. Formularios (T6): JavaScript/T6_formularios.md
   - PHP:
-      - Introducción: php/index.md
+      - Introducción: PHP/index.md
   - SQL:
-      - Introducción: sql/index.md
+      - Introducción: SQL/index.md
 
 plugins:
   - search:
