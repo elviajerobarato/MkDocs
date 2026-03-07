@@ -2,3 +2,4 @@
 
 Primer despliegue automático.
 Este es mi primer proyecto con MkDocs Material.
+Despliegue funcionando con GitHub Actions.
