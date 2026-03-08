@@ -1,5 +1,8 @@
 site_name: Mi Documentación
 docs_dir: docs
+site_description: Documentación de mis apuntes y proyectos
+site_author: Tu Nombre
+
 
 theme:
   name: material
