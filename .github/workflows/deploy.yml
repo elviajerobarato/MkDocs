@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,7 +21,7 @@ jobs:
 
       - name: Install MkDocs and theme
         run: |
-          pip install mkdocs-material
+          pip install mkdocs mkdocs-material
 
       - name: Build site
         run: mkdocs build --clean
