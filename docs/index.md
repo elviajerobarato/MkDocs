@@ -1,5 +1,5 @@
 # Bienvenido a mi documentación
 
-Primer despliegue automático.
-Este es mi primer proyecto con MkDocs Material.
-Despliegue funcionando con GitHub Actions.
+Primer despliegue automático. <br>
+Este es mi primer proyecto con MkDocs Material.<br>
+Despliegue funcionando con GitHub Actions.<br>
