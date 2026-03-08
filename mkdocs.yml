@@ -15,7 +15,7 @@ icon:
 
 nav:
   - Inicio: index.md
-  - Créditos: creditos.md
+  - Creditos: creditos.md
   - Prueba: prueba.md
   - Python:
       - Introducción: Python/index.md
