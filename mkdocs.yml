@@ -13,13 +13,13 @@ nav:
   - Python:
       - Introducción: Python/index.md
   - JavaScript:
-      - 00. Inicio: JavaScript/index.md
-      - 01. Introducción (T1): JavaScript/T1_introduccion.md
-      - 02. Funciones (T2): JavaScript/T2_funciones.md
-      - 03. Arrays (T3): JavaScript/T3_arrays.md
-      - 04. DOM (T4): JavaScript/T4_DOM.md
-      - 05. Eventos (T5): JavaScript/T5_eventos.md
-      - 06. Formularios (T6): JavaScript/T6_formularios.md
+      - index.md
+      - T1_introduccion.md
+      - T2_funciones.md
+      - T3_arrays.md
+      - T4_DOM.md
+      - T5_eventos.md
+      - T6_formularios.md
   - PHP:
       - Introducción: PHP/index.md
   - SQL:
