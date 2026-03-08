@@ -12,7 +12,7 @@ nav:
   - Inicio: index.md
   - Créditos: creditos.md
   - Prueba: prueba.md
- - Python:
+  - Python:
       - Introducción: Python/index.md
   - JavaScript:
       - Inicio: JavaScript/index.md
