@@ -10,6 +10,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Créditos: creditos.md
   - Python:
       - Introducción: Python/index.md
   - JavaScript:
