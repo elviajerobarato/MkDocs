@@ -1,0 +1,6 @@
+site_name: Prueba MkDocs
+docs_dir: docs
+
+nav:
+  - Inicio: index.md
+  - Créditos: creditos.md
