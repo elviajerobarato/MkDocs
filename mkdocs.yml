@@ -3,7 +3,6 @@ site_name: Mi Documentación
 theme:
   name: material
   features:
-  #  - navigation.tabs
     - navigation.sections
     - navigation.expand
 
